@@ -6,7 +6,7 @@
  - Recreate the visuals in the video above.
  - When a user clicks on a quest their cash should increment by a random amount in the range specified.
 
- ### Stretch Goals:
+### Stretch Goals:
 
  CSS Stretch goals:
  - Add a background image to the page that fits the theme.
@@ -20,3 +20,5 @@
  - In the log show if the quest was successful or not.
  - If the quest fails remove cash from the user.
  - Add additional animations.
+
+ #### If you finish all the stretch goals this is a cool portfolio piece! 
